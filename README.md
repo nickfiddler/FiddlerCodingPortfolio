@@ -1,2 +1,2 @@
 # FiddlerCodingPortfolio
-I am creating this project to show off some of the coding skills that I have, focusing in on machine learning.
+My name is Nick Fiddler. I recently graduated from Commonwealth University of Pennsylvania - Bloomsburg (formerly Bloomsburg University) as a Data Science major. I am creating this project to show off some of the coding/ machine learning skills and techniques that I have learned over time. Please enjoy going through waht projects I have done and please reach out if you have any questions!
